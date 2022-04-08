@@ -1,0 +1,96 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tuimagenvillaangela.com.ar" resolutions="1x" timestamp="1649377559413">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="294565487" ref="quienes-somos:contacto:servicios:index"/>
+    <file name="quienes-somos.css" crc="3836213891" ref="quienes-somos"/>
+    <file name="contacto.css" crc="4215253873" ref="contacto"/>
+    <file name="servicios.css" crc="3943874039" ref="servicios"/>
+    <file name="index.css" crc="3980488566" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:quienes-somos:servicios:contacto"/>
+    <file name="museutils.js" crc="3803043152" ref="index:quienes-somos:servicios:contacto"/>
+    <file name="whatinput.js" crc="86476730" ref="index:quienes-somos:servicios:contacto"/>
+    <file name="museconfig.js" crc="380897831" ref="index:quienes-somos:servicios:contacto"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:quienes-somos:servicios:contacto"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:quienes-somos:servicios:contacto"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:quienes-somos:servicios:contacto"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:quienes-somos:servicios:contacto"/>
+    <file name="require.js" crc="4157109226" ref="index:quienes-somos:servicios:contacto"/>
+    <file name="webpro.js" crc="242022427" ref="quienes-somos:contacto"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="quienes-somos"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="quienes-somos"/>
+    <file name="touchswipe.js" crc="4066113679" ref="quienes-somos"/>
+    <file name="form_check.php" crc="147359589" ref="contacto"/>
+    <file name="form_throttle.php" crc="93986428" ref="contacto"/>
+    <file name="form_process.php" crc="3851993751" ref="contacto"/>
+    <file name="form-u854.php" crc="412888751" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="u325-4.png" crc="3915622381" ref="index:quienes-somos:servicios:contacto"/>
+    <file name="logo.png" crc="130997308" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="cosa-regalare-appassionato-fotografia.jpg" crc="4270788731" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="u378-4.png" crc="102356550" ref="index"/>
+    <file name="246717284_2494780240652810_6195366770857899705_n.jpg" crc="345786069" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="192799039_2355100421287460_4665555692534543645_n.jpg" crc="347220451" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="244512227_2481453168652184_7272283486097285821_n.jpg" crc="225981057" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fdebdd6ec05cfb9bdc6ebfb0dfe91e6f.jpg" crc="415039601" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="2cda1925dcf4fb8f0644413f49671ffa.jpg" crc="4007067671" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="u477-5.png" crc="481013475" ref="index:quienes-somos:servicios:contacto"/>
+    <file name="u755-4.png" crc="4142796636" ref="quienes-somos"/>
+    <file name="261311039_2528978833899617_573577825350171264_n-u640-fr.jpg" crc="217704366" ref="quienes-somos"/>
+    <file name="247341685_2494772910653543_3397008985271406164_n-u641-fr.jpg" crc="3906793349" ref="quienes-somos"/>
+    <file name="242926182_2466392643491570_5258061329422455232_n-u642-fr.jpg" crc="89554649" ref="quienes-somos"/>
+    <file name="176807830_2318449424952560_9053203856492638258_n-u701-fr.jpg" crc="3835402176" ref="quienes-somos"/>
+    <file name="245184439_2479920175472150_7679554465424545320_n-u715-fr.jpg" crc="433503562" ref="quienes-somos"/>
+    <file name="247568317_2494780293986138_8203679354934988520_n-u729-fr.jpg" crc="4132751567" ref="quienes-somos"/>
+    <file name="261311039_2528978833899617_573577825350171264_n-u636-a-fr.jpg" crc="319542567" ref="quienes-somos"/>
+    <file name="247341685_2494772910653543_3397008985271406164_n-u638-a-fr.jpg" crc="389161502" ref="quienes-somos"/>
+    <file name="242926182_2466392643491570_5258061329422455232_n-u637-a-fr.jpg" crc="69471615" ref="quienes-somos"/>
+    <file name="176807830_2318449424952560_9053203856492638258_n-u704-a-fr.jpg" crc="3860842218" ref="quienes-somos"/>
+    <file name="245184439_2479920175472150_7679554465424545320_n-u718-a-fr.jpg" crc="3774541830" ref="quienes-somos"/>
+    <file name="247568317_2494780293986138_8203679354934988520_n-u732-a-fr.jpg" crc="250881783" ref="quienes-somos"/>
+    <file name="u752-4.png" crc="340389069" ref="servicios"/>
+    <file name="descarga (3).jpg" crc="3844594802" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="fotografia_blog-1.jpg" crc="34692000" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="descarga (5).jpg" crc="4073033518" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="u800-4.png" crc="220727796" ref="contacto"/>
+    <file name="istockphoto-1090885250-170667a.jpg" crc="3994345428" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="logo-u906-fr.png" crc="409198485" ref="contacto"/>
+    <file name="u914-4.png" crc="4047097546" ref="contacto"/>
+    <file name="como-usar-youtube-conceptos-basicos.jpg" crc="4121333766" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4117548055" seo="true" mt="1649377254175" redirect="true"/>
+  <file name="quienes-somos.html" crc="3977609848" seo="true" mt="1649377254175" redirect="true"/>
+  <file name="servicios.html" crc="166403052" seo="true" mt="1649377254175" redirect="true"/>
+  <file name="contacto.html" crc="4026369311" seo="true" mt="1649377254175" redirect="true"/>
+</manifest>
